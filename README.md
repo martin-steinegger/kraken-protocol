@@ -6,8 +6,8 @@ Here we introduce a step-by-step protocol for the Kraken suite, an end-to-end pi
 
 We provide two [jupyter notebooks](https://jupyter.org), each desribing one workflow. Jupyter notebooks can be executed for free using Google Colaboratory, which over cloud compute to execute notebooks.
 
- 1. [`Kraken_microbiom.ipynb`](https://github.com/martin-steinegger/kraken-protocol/blob/main/Kraken_microbiom.ipynb) describes the microbiom analysis workflow
- 2. [`Kraken_pathogen.ipynb`](https://github.com/martin-steinegger/kraken-protocol/blob/main/Kraken_pathogen.ipynb) describes the pathogen detection workflow
+ 1. [`Kraken_microbiom.ipynb`](https://github.com/martin-steinegger/kraken-protocol/blob/main/Kraken_microbiom.ipynb) describes the microbiom analysis workflow. Open in [Colab](https://colab.research.google.com/github/martin-steinegger/kraken-protocol/blob/main/Kraken_microbiom.ipynb).
+ 2. [`Kraken_pathogen.ipynb`](https://github.com/martin-steinegger/kraken-protocol/blob/main/Kraken_pathogen.ipynb) describes the pathogen detection workflow. Open in [Colab](https://colab.research.google.com/github/martin-steinegger/kraken-protocol/blob/main/Kraken_pathogen.ipynb).
 
 ## Publication
 [Lu J, Rincon N, Wood D E, Breitwieser F P, Pockrandt C, Langmead B, Salzberg S L, Steinegger M. Metagenome analysis using the Kraken software suite. Nature Protocols, doi: 10.1038/s41596-022-00738-y (2022)](https://www.nature.com/articles/s41596-022-00738-y)
